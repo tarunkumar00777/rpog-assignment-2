@@ -1,6 +1,6 @@
 # See README.md for instructions on running the code and output from it
 # The assignment states that running the code is not part of the grading 
-# Syed Suhaan Submisson
+#Tarun Kumar Submisson
 
 # makeCacheMatrix is a function that returns a list of functions
 # Its puspose is to store a martix and a cached value of the inverse of the 
